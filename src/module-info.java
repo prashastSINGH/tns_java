@@ -1,2 +1,3 @@
 module tns_java {
+\\ \\
 }
